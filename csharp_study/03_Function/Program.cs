@@ -32,7 +32,7 @@ namespace _03_Function
             result = Calculator.Minus(5, 2);
             Console.WriteLine(result);
 
-
+            Console.WriteLine("완료");
 
         }
     }
